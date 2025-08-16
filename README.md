@@ -18,6 +18,15 @@ It can upload an image, classify it into animal categories, and generate **Grad-
 
 ---
 
+## 📥 Download Pretrained Models
+
+Since the model files are larger than GitHub’s 100MB limit, they are stored on Google Drive:
+
+- [best_model.h5](https://drive.google.com/file/d/1-Bd8XcGoZw7O-TbcA16TRAI_O-XlEQKA/view?usp=sharing)
+- [best_animal_classifier.keras](https://drive.google.com/file/d/16tVLAZ3uC4RdAf526J_sFUVpJuqhT5Rv/view?usp=sharing)
+- [final_best_animal_classifier.keras](https://drive.google.com/file/d/1Rb7FKfpukGM8DD6fKEqZTdw_sjslG6eI/view?usp=sharing)
+- [initial_best_model.keras](https://drive.google.com/file/d/1z-uto_ZEDZXwICkC3maqZIOOTW89d4xg/view?usp=sharing)
+
 ## 🛠️ Tech Stack
 - **Programming Language:** Python
 - **Deep Learning Framework:** TensorFlow / Keras
